@@ -47,5 +47,7 @@ set incsearch
 set hlsearch
 set autoindent
 
+imap kj <Esc>
+
 " enable all Python syntax highlighting features
 let python_highlight_all = 1
